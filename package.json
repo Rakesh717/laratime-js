@@ -2,8 +2,8 @@
   "name": "laratime-js",
   "version": "1.0.0",
   "description": "Frontend helper for laratime(laravel package)",
-  "main": "src/laratime.js",
-  "module": "src/laratime.js",
+  "main": "dist/laratime.js",
+  "module": "dist/laratime.js",
   "keywords": [
     "laratime",
     "websockets",
@@ -16,5 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "laravel-echo": "^1.8.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
