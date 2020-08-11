@@ -1,0 +1,20 @@
+{
+  "name": "laratime-js",
+  "version": "1.0.0",
+  "description": "Frontend helper for laratime(laravel package)",
+  "main": "src/laratime.js",
+  "module": "src/laratime.js",
+  "keywords": [
+    "laratime",
+    "websockets",
+    "realtime"
+  ],
+  "author": {
+    "name": "Rakesh Thapa",
+    "email": "rakeshthapa358@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "laravel-echo": "^1.8.1"
+  }
+}
