@@ -1,6 +1,6 @@
 {
   "name": "laratime-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Frontend helper for laratime(laravel package)",
   "main": "dist/laratime.js",
   "module": "dist/laratime.js",
